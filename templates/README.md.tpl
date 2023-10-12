@@ -1,8 +1,6 @@
 Hi There...
 
+## Last projects I'm working on
 {{range recentContributions 10}}
-Name: {{.Repo.Name}}
-Description: {{.Repo.Description}}
-URL: {{.Repo.URL}})
-Occurred: {{humanize .OccurredAt}}
+ - [{{.Repo.Name}}]({{.Repo.URL}}): {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{end}}
