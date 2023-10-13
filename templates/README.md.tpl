@@ -16,9 +16,8 @@ Hi There...
 {{- end}}
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeckel)](https://github.com/anuraghazra/github-readme-stats)
+
+![https://github-readme-stats.vercel.app/api/top-langs/?username=jeckel&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=jeckel&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=jeckel&color=blue)
