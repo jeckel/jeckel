@@ -4,6 +4,8 @@ Hi There...
 
  - [Jeckel-Lab/etl](https://github.com/Jeckel-Lab/etl): ETL (Extract - Transform - Load) pattern implementation (today)
 
+ - [Jeckel-Lab/mautic-webhook-parser](https://github.com/Jeckel-Lab/mautic-webhook-parser): A library to parse Mautic&#39;s webhook payloads (today)
+
  - [Jeckel-Lab/Jeckel-Lab.github.io](https://github.com/Jeckel-Lab/Jeckel-Lab.github.io): Jeckel-Lab website (4 days ago)
 
 
