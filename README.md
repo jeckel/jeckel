@@ -3,11 +3,8 @@ Hi There...
 ## Last projects I'm working on
 
  - [Jeckel-Lab/Jeckel-Lab.github.io](https://github.com/Jeckel-Lab/Jeckel-Lab.github.io): Jeckel-Lab website (today)
-
  - [Jeckel-Lab/etl](https://github.com/Jeckel-Lab/etl): ETL (Extract - Transform - Load) pattern implementation (2 days ago)
-
  - [Jeckel-Lab/mautic-webhook-parser](https://github.com/Jeckel-Lab/mautic-webhook-parser): A library to parse Mautic&#39;s webhook payloads (2 days ago)
-
 
 ## My recent blog posts
 
