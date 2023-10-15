@@ -3,7 +3,7 @@ Hi There...
 ## Last projects I'm working on
 {{range recentContributions 10}}
  - [{{.Repo.Name}}]({{.Repo.URL}}): {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{end}}
+{{- end}}
 
 ## My recent blog posts
 {{range rss "https://jeckel-lab.fr/feed.xml" 5}}
