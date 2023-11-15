@@ -2,7 +2,7 @@ Hi There...
 
 ## Last projects I'm working on
 
- - [Jeckel-Lab/ipc-shared-memory-demo](https://github.com/Jeckel-Lab/ipc-shared-memory-demo): A demo project on how to use the IPC-Shared-Memory package (1 day ago)
+ - [Jeckel-Lab/ipc-shared-memory-demo](https://github.com/Jeckel-Lab/ipc-shared-memory-demo): A demo project on how to use the IPC-Shared-Memory package (today)
  - [jeckel/dotfiles](https://github.com/jeckel/dotfiles): My Dot files (6 days ago)
  - [Jeckel-Lab/ipc-shared-memory](https://github.com/Jeckel-Lab/ipc-shared-memory): A library to use shared memory for Inter-Process Communication without collision (2 weeks ago)
  - [Jeckel-Lab/mautic-webhook-parser](https://github.com/Jeckel-Lab/mautic-webhook-parser): A library to parse Mautic&#39;s webhook payloads (2 weeks ago)
@@ -20,11 +20,11 @@ Hi There...
 
 ## My recent followers
 
+- [lothereus](https://github.com/lothereus)
 - [cpxPratik](https://github.com/cpxPratik)
 - [sebdec](https://github.com/sebdec)
 - [Ismaelito91](https://github.com/Ismaelito91)
 - [albancrommer](https://github.com/albancrommer)
-- [kevinminkolminganga](https://github.com/kevinminkolminganga)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeckel)](https://github.com/anuraghazra/github-readme-stats)
