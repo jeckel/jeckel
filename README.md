@@ -2,6 +2,7 @@ Hi There...
 
 ## Last projects I'm working on
 
+ - [jolicode/castor](https://github.com/jolicode/castor): 🦫 DX oriented task runner and command launcher built with PHP. (today)
  - [Jeckel-Lab/ipc-shared-memory-demo](https://github.com/Jeckel-Lab/ipc-shared-memory-demo): A demo project on how to use the IPC-Shared-Memory package (5 days ago)
  - [jeckel/dotfiles](https://github.com/jeckel/dotfiles): My Dot files (1 week ago)
  - [Jeckel-Lab/ipc-shared-memory](https://github.com/Jeckel-Lab/ipc-shared-memory): A library to use shared memory for Inter-Process Communication without collision (3 weeks ago)
