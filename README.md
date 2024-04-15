@@ -23,11 +23,11 @@ Hi There...
 
 ## My recent followers
 
+- [wikub](https://github.com/wikub)
 - [lothereus](https://github.com/lothereus)
 - [cpxPratik](https://github.com/cpxPratik)
 - [sebdec](https://github.com/sebdec)
 - [Ismaelito91](https://github.com/Ismaelito91)
-- [albancrommer](https://github.com/albancrommer)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeckel)](https://github.com/anuraghazra/github-readme-stats)
