@@ -11,7 +11,6 @@ Hi There...
  - [Jeckel-Lab/castor-helper](https://github.com/Jeckel-Lab/castor-helper): Castor helper tools (9 months ago)
  - [Jeckel-Lab/ipc-shared-memory-demo](https://github.com/Jeckel-Lab/ipc-shared-memory-demo): A demo project on how to use the IPC-Shared-Memory package (11 months ago)
  - [jolicode/castor](https://github.com/jolicode/castor): 🦫 DX oriented task runner and command launcher built with PHP. (11 months ago)
- - [Jeckel-Lab/ipc-shared-memory](https://github.com/Jeckel-Lab/ipc-shared-memory): A library to use shared memory for Inter-Process Communication without collision (1 year ago)
 
 ## My recent blog posts
 
