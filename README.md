@@ -2,8 +2,8 @@ Hi There...
 
 ## Last projects I'm working on
 
- - [jeckel/DxCompanion](https://github.com/jeckel/DxCompanion):  (1 day ago)
- - [afup-paris/slides-intro](https://github.com/afup-paris/slides-intro): Slides afup-paris des meetups (1 week ago)
+ - [jeckel/DxCompanion](https://github.com/jeckel/DxCompanion):  (2 days ago)
+ - [afup-paris/slides-intro](https://github.com/afup-paris/slides-intro): Slides afup-paris des meetups (2 weeks ago)
  - [jeckel/dotfiles](https://github.com/jeckel/dotfiles): My Dot files (2 months ago)
  - [Jeckel-Lab/Jeckel-Lab.github.io](https://github.com/Jeckel-Lab/Jeckel-Lab.github.io): Jeckel-Lab website (5 months ago)
  - [Jeckel-Lab/contract](https://github.com/Jeckel-Lab/contract): A set of contracts and interfaces to use in different packages (7 months ago)
@@ -15,7 +15,7 @@ Hi There...
 
 ## My recent blog posts
 
-- [Comment debugger un Job dans CircleCI](https://jeckel-lab.fr/ci-cd/2024/02/15/debugger-un-job-circleci.html) (8 months ago)
+- [Comment debugger un Job dans CircleCI](https://jeckel-lab.fr/ci-cd/2024/02/15/debugger-un-job-circleci.html) (9 months ago)
 - [Petite histoire de l’immutabilité en PHP](https://jeckel-lab.fr/php/2023/10/02/histoire-immutabilite-en-php.html) (1 year ago)
 - [Pourquoi ne jamais versionner les tokens dans un repository](https://jeckel-lab.fr/devops/2023/09/21/ne-pas-versionner-les-tokens-dans-git.html) (1 year ago)
 - [8 Conseils pour faire votre conteneur docker NodeJs de production](https://jeckel-lab.fr/devops/2018/02/08/conteneur-nodejs-en-production.html) (6 years ago)
