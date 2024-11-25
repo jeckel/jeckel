@@ -3,7 +3,7 @@ Hi There...
 ## Last projects I'm working on
 
  - [jeckel/DxCompanion](https://github.com/jeckel/DxCompanion):  (1 week ago)
- - [afup-paris/slides-intro](https://github.com/afup-paris/slides-intro): Slides afup-paris des meetups (3 weeks ago)
+ - [afup-paris/slides-intro](https://github.com/afup-paris/slides-intro): Slides afup-paris des meetups (4 weeks ago)
  - [jeckel/dotfiles](https://github.com/jeckel/dotfiles): My Dot files (2 months ago)
  - [Jeckel-Lab/Jeckel-Lab.github.io](https://github.com/Jeckel-Lab/Jeckel-Lab.github.io): Jeckel-Lab website (5 months ago)
  - [Jeckel-Lab/contract](https://github.com/Jeckel-Lab/contract): A set of contracts and interfaces to use in different packages (8 months ago)
