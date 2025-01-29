@@ -20,11 +20,11 @@ Hi There...
 
 ## My recent followers
 
+- [algofunction](https://github.com/algofunction)
 - [matyo91](https://github.com/matyo91)
 - [wikub](https://github.com/wikub)
 - [cpxPratik](https://github.com/cpxPratik)
 - [sebdec](https://github.com/sebdec)
-- [Ismaelito91](https://github.com/Ismaelito91)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeckel)](https://github.com/anuraghazra/github-readme-stats)
