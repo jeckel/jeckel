@@ -2,7 +2,7 @@ Hi There...
 
 ## Last projects I'm working on
 
- - [jeckel/DxCompanion](https://github.com/jeckel/DxCompanion):  (3 months ago)
+ - [jeckel/DxCompanion](https://github.com/jeckel/DxCompanion):  (4 months ago)
  - [afup-paris/slides-intro](https://github.com/afup-paris/slides-intro): Slides afup-paris des meetups (4 months ago)
  - [jeckel/dotfiles](https://github.com/jeckel/dotfiles): My Dot files (6 months ago)
  - [Jeckel-Lab/Jeckel-Lab.github.io](https://github.com/Jeckel-Lab/Jeckel-Lab.github.io): Jeckel-Lab website (9 months ago)
