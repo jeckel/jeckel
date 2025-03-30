@@ -6,7 +6,6 @@ Hi There...
  - [afup-paris/slides-intro](https://github.com/afup-paris/slides-intro): Slides afup-paris des meetups (5 months ago)
  - [jeckel/dotfiles](https://github.com/jeckel/dotfiles): My Dot files (6 months ago)
  - [Jeckel-Lab/Jeckel-Lab.github.io](https://github.com/Jeckel-Lab/Jeckel-Lab.github.io): Jeckel-Lab website (9 months ago)
- - [Jeckel-Lab/contract](https://github.com/Jeckel-Lab/contract): A set of contracts and interfaces to use in different packages (1 year ago)
 
 ## My recent blog posts
 
