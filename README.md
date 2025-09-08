@@ -4,7 +4,7 @@ Hi There...
 
  - [jeckel/dotfiles](https://github.com/jeckel/dotfiles): My Dot files (2 months ago)
  - [jeckel/prefect-workflow](https://github.com/jeckel/prefect-workflow):  (2 months ago)
- - [jeckel/DxCompanion](https://github.com/jeckel/DxCompanion):  (9 months ago)
+ - [jeckel/DxCompanion](https://github.com/jeckel/DxCompanion):  (10 months ago)
  - [afup-paris/slides-intro](https://github.com/afup-paris/slides-intro): Slides afup-paris des meetups (10 months ago)
 
 ## My recent blog posts
