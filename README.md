@@ -15,11 +15,11 @@ Hi There...
 
 ## My recent followers
 
-- [XiaomingX](https://github.com/XiaomingX)
 - [jeremyvol](https://github.com/jeremyvol)
 - [algofunction](https://github.com/algofunction)
 - [matyo91](https://github.com/matyo91)
 - [wikub](https://github.com/wikub)
+- [cpxPratik](https://github.com/cpxPratik)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeckel)](https://github.com/anuraghazra/github-readme-stats)
