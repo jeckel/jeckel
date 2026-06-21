@@ -3,8 +3,6 @@ Hi There...
 ## Last projects I'm working on
 
  - [EvidenceB/.github](https://github.com/EvidenceB/.github): Public EvidenceB Repository (2 months ago)
- - [jeckel/dotfiles](https://github.com/jeckel/dotfiles): My Dot files (1 year ago)
- - [jeckel/prefect-workflow](https://github.com/jeckel/prefect-workflow):  (1 year ago)
 
 ## My recent blog posts
 
